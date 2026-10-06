@@ -1,0 +1,16 @@
+name: lore
+id: ari:cloud:compass:e489ce12-950f-402e-8d4e-940f40450fe5:component/d3e19302-71bb-4ac1-ba88-53bb212819ec/624cc551-0572-4387-8c9d-90f6e032b5a8
+description: Lore is a next-generation, open source version control system
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/groupe-carvi/lore
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
